@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Teamwork Beats Solopreneurship
+comments: true
 ---
 
 I’ve been an independent contractor, a freelancer, in my web development career for about eight years. Until September of last year, I was a solo act. I did a little of everything – project management, design, front end and back end development, sales … everything it takes to run a solopreneur business. In September of 2016, I was contracted by TEKsystems to work with Presbyterian Healthcare Services on their new intranet project.
