@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript Gotcha - Setting and object to another object (object cloning)
+title: Javascript Gotcha - Setting an object to another object (object cloning)
 comments: true
 ---
 
