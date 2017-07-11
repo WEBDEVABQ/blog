@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Whiteboarding Weeds Out Great Developers
+comments: true
 ---
 
 ![image](http://lipstickwineandheels.com/wp-content/uploads/2017/03/breather-163393-e1489455868240.jpg)
