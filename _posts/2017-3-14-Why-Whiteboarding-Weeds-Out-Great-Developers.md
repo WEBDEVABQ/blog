@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why Whiteboarding Weeds Out Great Developers
+---
+
 ![image](http://lipstickwineandheels.com/wp-content/uploads/2017/03/breather-163393-e1489455868240.jpg)
 
 The only interview I came out of feeling that I did quite poorly, was one with a whiteboarding series of tests, albeit it was on paper rather than on a whiteboard. I felt that I had failed quite miserably in even presenting myself as a programmer, much less a competent one. Based on my references and my performance at my current job, I am more than competent as a programmer: creative, fast, a quick learner … everything a company should be looking for.
