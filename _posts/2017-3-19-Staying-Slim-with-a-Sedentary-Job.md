@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Staying Slim with a Sedentary Job
+comments: true
 ---
 
 Many of us, especially those of us in the programming industry, have long, sedentary days glued to our computers. Though I have been blessed with being naturally thin, I realize this won’t last forever. Besides weight gain, a sedentary lifestyle leads to a host of health issues, and has been compared to smoking cigarettes with how detrimental it is to our health.
