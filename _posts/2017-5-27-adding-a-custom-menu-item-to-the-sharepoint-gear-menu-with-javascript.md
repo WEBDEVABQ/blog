@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding a custom menu item to the SharePoint gear menu with JavaScript
+comments: true
 ---
 
 Adding a custom menu item to the SharePoint gear menu using Javascript is easy, but there isn’t a lot of documentation on how to do this in practice. Here is a script you can insert wherever you are adding any custom Javascript, whether in a custom script file or in the script editor. As soon as the page with the script is loaded, it will check if the menu item exists. If not, it will add it. Lines 30-35 is where you can set the properties of the custom menu item.
