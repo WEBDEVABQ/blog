@@ -6,7 +6,7 @@ comments: true
 
 By default, SharePoint searches whole words or phrases. If a wildcard (*) is added to a search term, SharePoint will search partial words as well. However, this trick is not known by most end users, and only works if the target audience is technical or trained on this technique.
 
-A simple fix is to edit the search results webpart and click Change Query. In the query text field, enter `{searchboxquery}*`, which will add the wildcard to the end of all search queries.
+A simple fix is to edit the **Search Results Webpart** and click **Change Query**. In the **Query Text** field, enter `{searchboxquery}*`, which will add the wildcard to the end of all search queries.
 
 There are a couple of issues with this method:
 1. Unlike a user-entered query with a wildcard, this method does not highlight the matched keyword in the search results.
